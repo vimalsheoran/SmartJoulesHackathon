@@ -1,4 +1,4 @@
-from channel_generator import generate_data_channel, CONFIG
+from channel_handler import generate_data_channel, CONFIG
 import requests
 import json
 

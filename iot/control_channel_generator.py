@@ -1,4 +1,4 @@
-from channel_generator import CONFIG, generate_control_channel, generate_feedback_channel
+from channel_handler import CONFIG, generate_control_channel, generate_feedback_channel
 import json
 import requests
 
